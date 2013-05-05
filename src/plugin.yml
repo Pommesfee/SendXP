@@ -1,0 +1,9 @@
+name: SendXP
+version: 0.1a
+description: Very basic plugin to share expirience with your friends !
+author: Pommesfee
+main: com.github.pommesfee.Main
+commands:
+    sendxp:
+      description: Gives a specified player some of your EXP.
+      usage: /<command> <target> <exp-amount>
